@@ -23,7 +23,6 @@ function StopWallRun()
 	BOOST = 40
 	BOOSTBOOL = false
 	WALLBOOL = false
-	print("stop")
 end
 
 function WallBehaviour:Update()
