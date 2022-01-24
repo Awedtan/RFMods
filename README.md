@@ -1,5 +1,5 @@
 # RFMods
 
-Ravenfield mods that are really badly made cause I don't really know what I'm doing
+Ravenfield mods by me
 
 https://steamcommunity.com/id/711goose/myworkshopfiles/
